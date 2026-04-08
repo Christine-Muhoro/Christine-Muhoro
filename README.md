@@ -1,3 +1,5 @@
+![Banner](gitbanner3.jpg)
+
 # 👩🏽‍💻 Christine Njeri Muhoro
 
 **`Data Scientist | Machine Learning Engineer | Aspiring Software Engineer`**
