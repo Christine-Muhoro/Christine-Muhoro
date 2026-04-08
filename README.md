@@ -58,7 +58,7 @@ Built and optimized machine learning models to predict customer churn, achieving
 🔗 [Repository](https://github.com/Christine-Muhoro/Phase-3-churn-project)
 
 ---
-<---
+<!---
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christine-Muhoro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
